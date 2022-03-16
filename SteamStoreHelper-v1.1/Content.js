@@ -1,0 +1,1 @@
+console.log('Content.js is active')
